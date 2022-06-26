@@ -1,6 +1,8 @@
 [I2C Framework Expansion Card](https://medo64.com/i2cframecard/)
 ================================================================
 
+THIS PROJECT HAS BEEN MERGED WITH [UART Framework Expansion Card](https://medo64.com/uartframecard/).
+
 This Framework laptop expansion card will show up on your system as a serial
 device and allow for a non-isolated 3.3V I2C operation up to 400 kHz.
 
